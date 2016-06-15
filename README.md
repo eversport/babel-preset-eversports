@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-$ npm install --save-dev @eversports/babel-preset-eversports
+$ npm install --save-dev babel-preset-eversports
 ```
 
 ## Usage

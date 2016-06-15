@@ -1,5 +1,5 @@
 {
-  "name": "@eversports/babel-preset-eversports",
+  "name": "babel-preset-eversports",
   "version": "1.0.0",
   "description": "Babel preset for es2015 and flow.",
   "main": "index.js",
@@ -12,6 +12,10 @@
     {
       "name": "Thomas Danecker",
       "email": "thomas.danecker@eversports.com"
+    },
+    {
+      "name": "Thomas Fritz",
+      "email": "thomas.fritz@eversports.com"
     }
   ],
   "bugs": {

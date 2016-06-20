@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-eversports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset for es2015 and flow.",
   "main": "index.js",
   "repository": {

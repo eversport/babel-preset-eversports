@@ -1,7 +1,7 @@
 module.exports = {
-  presets: "es2015",
+  presets: require("babel-preset-es2015"),
   plugins: [
-    "transform-class-properties",
-    "transform-flow-strip-types"
+    require("babel-plugin-transform-class-properties"),
+    require("babel-plugin-transform-flow-strip-types")
   ]
 };
